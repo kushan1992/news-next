@@ -25,8 +25,8 @@ git --version
 ## 📁 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-nextjs-repo.git
-cd your-nextjs-repo
+git clone https://github.com/kushan1992/news-next.git
+cd news-next
 ```
 
 > 🔁 Replace the URL with your actual GitHub repo.
